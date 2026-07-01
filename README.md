@@ -1,2 +1,11 @@
-# rust-advanced-on-the-way
-Advanced Rust (2026 - XXXX)
+Advanced Rust (2026 - XXXX):
+
+- Web3 Smart Contracts
+
+- Generics
+
+- Traits
+
+- Lifetimes
+
+- Wait...
