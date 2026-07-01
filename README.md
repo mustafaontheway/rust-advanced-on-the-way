@@ -8,4 +8,6 @@ Advanced Rust (2026 - XXXX):
 
 - Lifetimes
 
+- Closures
+
 - Wait...
