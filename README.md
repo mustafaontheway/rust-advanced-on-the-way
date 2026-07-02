@@ -10,4 +10,6 @@ Advanced Rust (2026 - XXXX):
 
 - Closures
 
+- Smart Pointers
+
 - Wait...
